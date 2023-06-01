@@ -89,6 +89,7 @@ input {
     border-radius: 50%;
     overflow: hidden;
     border: 10px solid gray;
+    font-style: italic;
 }
 
 .form-left div {
