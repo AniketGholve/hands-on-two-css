@@ -147,6 +147,7 @@ input {
 .menu-item {
     margin-top: 40px;
     width: 30rem;
+    height: 18rem;
     background-color: aquamarine;
     border-radius: 30px;
     border: 5px solid rgb(12, 165, 12);
@@ -164,4 +165,7 @@ input {
 
 .menu-item h1 {
     padding: 20px;
+}
+.lastDiv{
+    height: 20rem;
 }
